@@ -1,0 +1,1 @@
+A command-line session showing repository creation, addition of a file, and remote synchronization
